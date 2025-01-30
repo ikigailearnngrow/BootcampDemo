@@ -4,6 +4,7 @@ cp=0
 sm=0
 sp=0
 d=0
+x=0
 
 for i in p:
     if(i>='A' and i<='Z'):
